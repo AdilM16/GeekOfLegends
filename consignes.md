@@ -67,8 +67,8 @@ Avec les propriétés et actions suivantes :
 ### L'archer 
 - Propriétés :
   >* nom;
-  >* points de vie
-  >* points d'attaque
+  >* points de vie;
+  >* points d'attaque;
   >* nombre de flêches : chiffre qui sera aléatoirement imposé entre  7, 8 , 9 ,10 ,11.
 ​
 - Actions :
